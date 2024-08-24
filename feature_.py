@@ -132,3 +132,4 @@ print(f"Recall: {round(recall_score(y_pred,y_test),3)}")
 print(f"Precision: {round(precision_score(y_pred,y_test), 2)}")
 print(f"F1: {round(f1_score(y_pred,y_test), 2)}")
 print(f"Auc: {round(roc_auc_score(y_pred,y_test), 2)}")
+#ddd
